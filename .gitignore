@@ -4,3 +4,5 @@ results.json
 *.pyc
 __pycache__
 pyHappyOrNot.egg-info
+build/
+dist/

@@ -1,1 +1,2 @@
-include *.MD
+include *.md
+include README.md

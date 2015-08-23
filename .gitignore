@@ -2,3 +2,4 @@
 env/
 results.json
 *.pyc
+__pycache__
